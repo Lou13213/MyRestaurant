@@ -27,7 +27,6 @@ class MainActivity : AppCompatActivity() {
         buttonsListener()
 
         Log.d( "lifeCycle", "MainActivity onCreate")
-
         }
 
     private fun buttonsListener() {
